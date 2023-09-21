@@ -1,0 +1,22 @@
+{
+  "name": "wysiwyg-editor-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "clipboard": "^2.0.11",
+    "normalize.css": "^8.0.1",
+    "sass": "^1.67.0",
+    "vue": "^3.3.4",
+    "vuestic-ui": "^1.8.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  }
+}
