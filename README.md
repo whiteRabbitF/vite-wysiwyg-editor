@@ -1,4 +1,4 @@
-# a page is hosted here https://whiterabbitf.github.io/vite-wysiwyg-editor/
+# a hosted page is here https://whiterabbitf.github.io/vite-wysiwyg-editor/
 
 # Vue 3 + Vite
 
