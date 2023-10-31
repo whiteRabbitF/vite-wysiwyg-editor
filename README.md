@@ -1,3 +1,5 @@
+# this is a simple WYSIWYG-editor on which you can edit text messages, add pics, undo and redo your actions, switch letters from uppercase to lowercase and vise versa
+
 # a hosted page is here https://whiterabbitf.github.io/vite-wysiwyg-editor/
 
 # Vue 3 + Vite
